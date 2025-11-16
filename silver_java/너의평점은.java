@@ -1,10 +1,7 @@
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.nio.Buffer;
 import java.util.StringTokenizer;
-
-import javax.imageio.plugins.bmp.BMPImageWriteParam;
 
 public class 너의평점은 {
     public static void main(String[] args)throws IOException {
@@ -33,3 +30,4 @@ public class 너의평점은 {
         System.out.println(sum/subjectCount);
     }
 }
+
